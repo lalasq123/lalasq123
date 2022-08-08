@@ -12,7 +12,13 @@ Atualmente, sei pelo menos como imprimir "Hello World" nestas linguagens e ferra
 
 <div style="display:inline_block"> <br>
 <p align="center">
+<a href=" " target="_blank"> <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" alt="c" width="40" height="40"/>
+ </a> 
 <a href="http://linguagemc.com.br/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+ </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="40" height="40"/>
+ </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor " alt="mysql" width="40" height="40"/>
  </a> 
  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
  </a>
